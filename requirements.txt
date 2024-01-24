@@ -1,0 +1,8 @@
+#lakukan pip install -r requirements.txt sebelum menjalankan sistem
+
+streamlit==1.18.0
+streamlit-option-menu==0.0.3
+opencv-python==4.5.3
+torch==1.9.0
+numpy==1.21.1
+easyocr==1.4.1
